@@ -1,5 +1,4 @@
 # SortingAlgorithm
-Problem Description
 I use C++ to implement Insertion Sort, Merge Sort, Heap Sort, Quicksort, and Bubble Sort (see page 40 of the textbook) to develop five word processors
 #Input
 The input consists of a sequence of words, numbers, and symbols, separated by blanks, punctuation marks, and/or line breakers (end of line).
